@@ -9,3 +9,5 @@ nltk
 pillow
 scipy
 requests
+pydot
+graphviz
